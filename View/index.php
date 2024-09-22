@@ -22,7 +22,7 @@ include_once "Config.php";
 
   <meta content="Bo & Ad0m | Profiles" property="og:title" />
   <meta content="Hello! We Are Bo & Ad0m !. We Full Stack Developer , My Experiences : [ LUA , HTML , CSS , JS, PHP, C# ]." property="og:description" />
-  <meta content="https://germanyteam.shop" property="og:url" />
+  <meta content="https://boad0m.online" property="og:url" />
   <meta content="yallow" data-react-helmet="true" name="theme-color" />
 
   <!--FONT AWESOME-->
